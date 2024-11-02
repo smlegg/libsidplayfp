@@ -30,3 +30,8 @@ tests/*.exe
 tests/*.log
 tests/*.trs
 libsidplayfp-*.tar.gz
+Doxyfile
+configure~
+src/config.h.in~
+psiddrv.bin
+

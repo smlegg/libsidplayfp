@@ -1,6 +1,9 @@
 [submodule "src/builders/exsid-builder/driver"]
 	path = src/builders/exsid-builder/driver
 	url = https://github.com/libsidplayfp/exsid-driver.git
+	ignore = dirty
 [submodule "src/builders/resid-builder/resid"]
 	path = src/builders/resid-builder/resid
 	url = https://github.com/libsidplayfp/resid.git
+	ignore = dirty
+
